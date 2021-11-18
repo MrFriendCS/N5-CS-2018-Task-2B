@@ -39,7 +39,7 @@ A program is required to display the five readings taken at the event and a sign
 
 ![Structure diagram](assets/MobileWifi.png)
 
-___2a__ Using the program analysis and design, implement the program in a language of your choice. Ensure the program matches the structure diagram provided.  (__15 marks__)
+___2a___ Using the program analysis and design, implement the program in a language of your choice. Ensure the program matches the structure diagram provided.  (__15 marks__)
 
 Print evidence of your program code.
 
