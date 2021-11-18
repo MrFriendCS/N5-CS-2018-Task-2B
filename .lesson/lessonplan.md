@@ -6,7 +6,7 @@ This file contains an example solution.
 
 ## Tests
 
-There are 3 tests.  The first tests the extreme values after they've been rounded.  The second two test exceptional values.
+There are three tests.  The first tests the extreme values after they've been rounded.  The second two test exceptional values.
 
 NB. With ___.5___ values, Python rounds to the nearest even number:
 
