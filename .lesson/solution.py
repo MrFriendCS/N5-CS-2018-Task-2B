@@ -39,7 +39,7 @@ for index in range(5):
         signalPattern = signalPattern + "M"
 
 # Display signal pattern with message
-print("The signal pattern is: " + signalPattern)
+print("Signal Pattern is: " + signalPattern)
 
 # Loop 5 times
 for index in range(5):

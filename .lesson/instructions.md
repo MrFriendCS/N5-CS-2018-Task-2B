@@ -29,10 +29,10 @@ A program is required to display the five readings taken at the event and a sign
   * Signal Pattern is: SSMPS
 
 * the five rounded readings with each reading number for example:
-  * Reading 1 – 89
-  * Reading 2 – 82
-  * Reading 3 – 56
-  * Reading 4 – 12
+  * Reading 1 - 89
+  * Reading 2 - 82
+  * Reading 3 - 56
+  * Reading 4 - 12
   * Reading 5 - 99
 
 ## Program design (structure diagram)
