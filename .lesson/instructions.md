@@ -1,4 +1,4 @@
-# N5 2018 - Mobile Wifi
+# N5 CS 2018 Task 2
 
 Scotven offers a mobile wi-fi service at outdoor events. They check the signal strength by taking readings from five locations.
 

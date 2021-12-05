@@ -1,4 +1,4 @@
-# Lesson Plan: N5 2018 - Mobile Wifi
+# Lesson Plan: N5 CS 2018 Task 2
 
 ## solution.py
 
