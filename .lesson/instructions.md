@@ -2,7 +2,7 @@
 
 Scotven offers a mobile wi-fi service at outdoor events. They check the signal strength by taking readings from five locations.
 
-![Map](assets/MobileWifiMap.png)
+![Map](assets/Map.png)
 
 The analysis and design for a program is shown below:
 
@@ -37,7 +37,7 @@ A program is required to display the five readings taken at the event and a sign
 
 ## Program design (structure diagram)
 
-![Structure diagram](assets/MobileWifi.png)
+![Structure diagram](assets/Diagram.png)
 
 ___2a___ Using the program analysis and design, implement the program in a language of your choice. Ensure the program matches the structure diagram provided.  (__15 marks__)
 
@@ -47,37 +47,7 @@ ___2b___ Your program should be tested to ensure it produces different signal pa
 
 Complete the table below to create one set of test data that will produce the expected output for the signal pattern shown.  (__2 marks__)
 
-<table>
- <tr>
-  <th>Type of test</th>
-  <th>User input</th>
-  <th>Expected output for signal paterrn</th>
-  <th>Actual output</th>
- </tr>
- <tr>
-  <td>Normal</td>
-  <td>
-   <table>
-    <tr>
-     <td>reading 1 :</td><td> </td>
-    </tr>
-    <tr>
-     <td>reading 2 :</td><td> </td>
-    </tr>
-    <tr>
-     <td>reading 3 :</td><td> </td>
-    </tr>
-    <tr>
-     <td>reading 4 :</td><td> </td>
-    </tr>
-    <tr>
-     <td>reading 5 :</td><td> </td>
-    </tr>
-   </table>
-  <td>Signal pattern is: MPSPS</td>
-  <td>Attach printouts of inputs and outputs as evidence</td>
- </tr>
-</table>
+![Test data](Testdata/Map.png)
 
 You must demonstrate that your program correctly outputs the signal pattern and the rounded readings.
 
